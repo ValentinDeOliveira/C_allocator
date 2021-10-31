@@ -1,0 +1,6 @@
+*.o
+.*.deps
+memshell
+test_init
+.vscode
+test
